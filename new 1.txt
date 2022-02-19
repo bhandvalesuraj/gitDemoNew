@@ -1,0 +1,22 @@
+
+
+
+
+
+
+•	Designing, implementing and maintaining Java-based applications as per business requirements 
+•	Contribute in all phases of the development lifecycle
+•	Writing testable, scalable and efficient code
+•	Test and debug applications for updates and bug fixing
+•	Maintain up to date code documentation or README files
+•	Participate in code reviews and quality checks
+•	As a scrum developer attend scurm meeting for planning, development and delivery of application
+•	Make deployment and monitor servers after deployment in CICD environment
+
+
+•	Work on assigned Jira/Story as per plan and before start of Sprint makes proper planning of work assigned
+•	We are using TDD and BDD approach for UI and backend development and testing
+•	On completion of development write positive & negative unit test as required
+•	Write UI automation test using selenium and cucumber
+•	Before pushing code make Sonar analysis for code quality and fix issues if any
+
