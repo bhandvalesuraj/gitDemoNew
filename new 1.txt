@@ -10,6 +10,7 @@
 •	Test and debug applications for updates and bug fixing
 •	Maintain up to date code documentation or README files
 •	Participate in code reviews and quality checks
+
 •	As a scrum developer attend scurm meeting for planning, development and delivery of application
 •	Make deployment and monitor servers after deployment in CICD environment
 

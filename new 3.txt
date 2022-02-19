@@ -2,4 +2,5 @@
 
 Tree is a non-linear data structure which organizes data in a hierarchical structure and this is a recursive definition.
 A tree is a connected graph without any circuits.
+
 If in a graph, there is one and only one path between every pair of vertices, then graph is called as a tree.
